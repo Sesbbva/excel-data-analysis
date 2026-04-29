@@ -4,6 +4,14 @@
 This project analyzes transaction and tax data for a sporting goods company using Microsoft Excel.  
 The goal was to transform raw data into meaningful insights through data cleaning, analysis, and structured financial calculations.
 
+## Project Visuals
+### Sunbars Chart
+![Sunburst](sunburst-chart.png)
+### Data table
+![Table](transactions-table.png)
+### Analysis (Fees)
+![Fees](card-fees-analysis.png)
+
 
 ### Key Tasks
 
