@@ -8,9 +8,9 @@ The goal was to transform raw data into meaningful insights through data cleanin
 ### Sunbars Chart
 ![Sunburst](sunburst-chart.png)
 ### Data table
-![Table](transactions-table.png)
+![Table](data-table.png)
 ### Analysis (Fees)
-![Fees](card-fees-analysis.png)
+![Fees](fees-analysis.png)
 
 
 ### Key Tasks
